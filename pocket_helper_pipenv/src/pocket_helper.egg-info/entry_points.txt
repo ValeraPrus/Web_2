@@ -1,0 +1,2 @@
+[console_scripts]
+pocket_helper = main:main
